@@ -1,6 +1,6 @@
 <h1 align="center">Frontend Mentor - QR code component solution</h1>
 
-<img src="https://github.com/FrontEndNick2022/Order-summary-component/blob/main/Preview.JPG?raw=true" ></img>
+<img src="https://github.com/NickODxyz/FM-qr-code-component-main/blob/main/Preview.JPG?raw=true" ></img>
 
 ## Overview
 
@@ -30,6 +30,3 @@ ADD HERE
 ## Acknowledgments
 
 Frontend Mentor
-
-**TO BE DELETED**
-https://github.com/NickODxyz/FM-qr-code-component-main.git
