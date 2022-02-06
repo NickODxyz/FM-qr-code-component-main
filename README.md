@@ -24,6 +24,13 @@ Short `max-inline-size: xxch` on a paragraph seems to throw out `text-align: cen
 
 <br>
 
+## Site links
+Hosted [Live Site](https://nickodxyz.github.io/FM-qr-code-component-main/)
+<br>
+Frontend Mentor [Solution Page](https://www.frontendmentor.io/solutions/fmqrcodecomponentmain-flexbox-ugTnnBLKS)
+
+<br>
+
 ## Useful resources
 
 [Figma](https://www.figma.com)
